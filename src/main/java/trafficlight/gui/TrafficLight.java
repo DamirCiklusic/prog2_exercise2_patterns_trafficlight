@@ -19,4 +19,9 @@ public class TrafficLight extends Light {
     }
 
     //TODO implement a part of the pattern here
+
+    @Override
+    public void update() {
+        turnOn(!isOn());
+    }
 }

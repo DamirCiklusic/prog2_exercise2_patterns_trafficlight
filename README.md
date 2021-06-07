@@ -22,5 +22,8 @@ Folgende Schritte sind zu durchzuführen
 Happy coding!
 
 
+Repo: https://github.com/DamirCiklusic/prog2_exercise2_patterns_trafficlight
+
+
 
  
